@@ -1,0 +1,17 @@
+# Qt / C++ build files
+build/
+build-*/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.user
+*.pro.user*
+*.moc
+*.qrc
+*.log
+
+# OS files
+.DS_Store
